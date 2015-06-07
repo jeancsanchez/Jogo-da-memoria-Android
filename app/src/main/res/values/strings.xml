@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jogo Da Memoria v.beta</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_activity20">Activity20</string>
+    <string name="title_activity_activity24">Activity24</string>
+    <string name="title_activity_activity16">Activity16</string>
+    <string name="title_activity_activity_teste">ActivityTeste</string>
+    <string name="title_activity_activity8">Activity8</string>
+    <string name="title_activity_activity10">Activity10</string>
+    <string name="title_activity_activity_16">Activity_16</string>
+    <string name="title_activity_activity_20">Activity_20</string>
+    <string name="title_activity_activity_24">Activity_24</string>
+</resources>
