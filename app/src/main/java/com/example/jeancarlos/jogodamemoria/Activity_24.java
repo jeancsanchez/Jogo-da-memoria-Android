@@ -1,4 +1,4 @@
-package com.example.jeancarlos.radiobuttonandcheckbox;
+package com.example.jeancarlos.jogodamemoria;
 
 import android.graphics.Color;
 import android.support.v7.app.ActionBarActivity;
@@ -8,6 +8,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.TextView;
+
+import com.example.jeancarlos.radiobuttonandcheckbox.R;
 
 import java.util.Arrays;
 import java.util.Collections;

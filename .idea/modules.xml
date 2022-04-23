@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RadioButtonANDCheckBox.iml" filepath="$PROJECT_DIR$/RadioButtonANDCheckBox.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jogo-da-memoria-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Jogo-da-memoria-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Jogo-da-memoria-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Jogo-da-memoria-Android.app.iml" />
     </modules>
   </component>
 </project>

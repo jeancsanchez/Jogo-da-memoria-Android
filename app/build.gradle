@@ -2,12 +2,11 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 21
-    buildToolsVersion '21.1.2'
 
     defaultConfig {
         applicationId "com.example.jeancarlos.radiobuttonandcheckbox"
         minSdkVersion 15
-        targetSdkVersion 19
+        targetSdkVersion 21
         versionCode 1
         versionName "1.0"
     }
@@ -20,6 +19,5 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:+'
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation("com.android.support:appcompat-v7:21.0.3")
 }
